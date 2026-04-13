@@ -3,11 +3,6 @@
 - 🔭 Hoje trabalho como Applied AI Engineer | LLM Orchestration | Agentic Systems | MCP
 - 🌱 Imerso em todo mundo AI
 
-<div>
-  <a href="https://github.com/stepholhier">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stepholhier&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepholhier&layout=compact&theme=dark" /> 
-</div>
 
 <div style="display: inline-block"><br>
 <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
