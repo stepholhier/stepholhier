@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Stephano 👋
 
-- 🔭 Hoje trabalho como Software Engineer Front-end
-- 🌱 Estou estudando e aprendendo Android com Kotlin
+- 🔭 Hoje trabalho como Applied AI Engineer | LLM Orchestration | Agentic Systems | MCP
+- 🌱 Imerso em todo mundo AI
 
 <div>
   <a href="https://github.com/stepholhier">
@@ -14,8 +14,6 @@
 <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" />
-<img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 </div>
 
 ##
